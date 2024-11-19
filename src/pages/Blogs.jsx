@@ -25,7 +25,7 @@ const Blogs = () => {
 
         <section className="h-auto max-w-[var(--maxWidth)] pt-12 flex items-center flex-col gap-10">
             <header className="text-5xl font-semibold flex flex-col items-center">All Blogs here
-                <div className="text-[1rem] mt-2 font-normal text-gray-400">View your favourite blog in no time. We got all the latest blogs that you need.</div>
+                <div className="text-[1rem] mt-2 font-normal text-gray-400 text-center">View your favourite blog in no time. We got all the latest blogs that you need.</div>
             </header>
 
             <motion.div className="flex flex-wrap gap-4 h-auto w-full justify-center">
